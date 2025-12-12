@@ -1,6 +1,6 @@
 # Site ScreenSaver 2.0 GitHub Deployment Complete
 **Date:** December 3, 2025
-**Authors:** Jordan Koch & Claude Code
+**Authors:** Jordan Koch
 
 ## ✅ Successfully Deployed to GitHub!
 
@@ -212,4 +212,4 @@ open "Site ScreenSaver 2.0.xcodeproj"
 **License:** MIT
 **Status:** ✅ LIVE and PUBLIC
 
-**Authors:** Jordan Koch & Claude Code
+**Authors:** Jordan Koch
